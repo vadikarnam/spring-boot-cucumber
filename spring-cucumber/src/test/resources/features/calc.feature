@@ -15,6 +15,6 @@ Feature: arithmetic operations
  
     Examples:
       | number1 | number2 | result |
-      | 2       | 3       | 6     |
+      | 2       | 3       | 6      |
       | 4       | 6       | 24     |
       | 7       | 8       | 56     |
