@@ -1,4 +1,4 @@
-package com.cucumber.example.springcucumber;
+package com.cucumber.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
